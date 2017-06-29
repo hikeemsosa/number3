@@ -1,6 +1,6 @@
 <!Doctype html>
 <html>
-<head><title></title>
+<head><title>the title stuff is only valid for the tabs of browsers.</title>
 </head>
 <body>
 <footer>
