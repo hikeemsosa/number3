@@ -8,6 +8,10 @@
 <footer>
 <img src="http://24.media.tumblr.com/tumblr_lopvkiVmTc1qkag34o1_1280.jpg">
 <p>if the image link is really long, just don't even bother using it.</p>
+<ul><li>
+<p>this cat is on the foot to show the footer duh.</p></li>
+<li><p>this image is really big :( time to learn about image sizing now ugh.</p></li>
+</ul>
 </footer>
 </body>
 </html>
